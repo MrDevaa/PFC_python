@@ -37,6 +37,7 @@ while True:
         print("tu as perdu :|")
         computer_wins += 1
 
+
 #print pour users
 print("Vous avez gagner", user_wins, "fois.")
 #print pour adversaire
